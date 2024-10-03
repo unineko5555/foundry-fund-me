@@ -1,7 +1,7 @@
 1. Proper README　
 2. Integration tests
     1.PIT STOP!How to make running these scripts easier??
-4. Programatic verification
+3. Programatic verification
 
 # About
 
